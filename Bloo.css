@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-image: url(http://img07.deviantart.net/6140/i/2011/304/8/5/pokemon_starters_kirbies_by_lelakaramela-d4elwvx.png);
+    background-size: 100% 100%;
+    height: 100vh;
+}
+p {
+    color: red;
+    padding : 100px;
+    border : 20px rgba(69, 420, 21, .69) dotted;
+    margin : 10px;
+}
+h1, h2 {
+    color : crimson; 
+}
+div {
+    background: rgb(32323, 666, 2324);
+    width: 20%;
+    margin: 20px auto; 
+    text-align: center;
+}
+div > h4 {
+    color: red;
+}
+
+div {
+    background: rgb(87, 27, 89);
+    width: 49%;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+#first {
+    background: silver;
+}
+#360noscope {
+    background: grey;
+}
+.lol {
+    background: blue;
+}
+@font-face {
+    font-family: Pkmm;
+    src: url('unown.ttf');
+}
+h1 {
+    font-family: Pkmn;
+}
+nav {
+    background: goldenrod;
+    margin: 0;
+    list-style: none;
+}
+ol {
+    list-style: none;
+
+}
+ul {
+    list-style: none;
+
+}
+li:hover {
+    background: silver;
+}
+img, iframe {
+    border:40px solid transparent;
+    border-image: url("https://s-media-cache-ak0.pinimg.com/originals/c5/1b/75/c51b75e2430c5f6d2cb8eb07ef16853d.jpg" 30 round);
+    display:incline;
+    
+
+    
+}
