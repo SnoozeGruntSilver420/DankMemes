@@ -58,7 +58,7 @@ ul {
     list-style: none;
 
 }
-li:hover {
+p:hover {
     background: silver;
 }
 img, iframe {
